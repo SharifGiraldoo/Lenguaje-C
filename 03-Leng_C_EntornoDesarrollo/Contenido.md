@@ -9,7 +9,7 @@ Algunas de estas herramientas se presentan en las imágenes a continuación:
 ![alt text](image.png)
 
 <p align="center">
-  <img src="./03-Leng_C_EntornoDesarrollo/img/image-1.png" alt="Screenshot">
+  <img src="./img/image-1.png" alt="Screenshot">
 </p>
 
 ![alt text](image-1.png)
