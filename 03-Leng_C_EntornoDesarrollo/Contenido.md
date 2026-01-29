@@ -13,7 +13,7 @@ Algunas de estas herramientas se presentan en las imágenes a continuación:
 ![alt text](image.png)
 
 <p align="center">
-  <img src="./img/image-1.png" alt="Screenshot">
+  <img src="C:\Users\shari\Documents\GitHub\Lenguaje-C\img" alt="Img1">
 </p>
 
 ![alt text](image-1.png)
