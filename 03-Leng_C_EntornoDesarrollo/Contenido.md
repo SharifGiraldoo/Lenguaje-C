@@ -9,7 +9,7 @@ Algunas de estas herramientas se presentan en las imágenes a continuación:
 ![alt text](image.png)
 
 <p align="center">
-  <img src="./assets/demo.gif" alt="Demo" width="600">
+  <img src="./img/image-1.png" alt="Imagen1" width="500">
 </p>
 
 ![alt text](image-1.png)
