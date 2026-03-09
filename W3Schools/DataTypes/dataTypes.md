@@ -289,4 +289,3 @@ unsigned char c = 200; // ✅ Safe
 
 ---
 
-*Reference: [W3Schools — C Data Types](https://www.w3schools.com/c/c_data_types.php)*
