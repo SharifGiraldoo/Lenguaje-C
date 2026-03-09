@@ -11,11 +11,6 @@ Sin necesidad de instalación, los compiladores online son una alternativa a pro
 Algunas de estas herramientas se presentan en las imágenes a continuación: 
 
 ![alt text](image.png)
-
-<p align="center">
-  <img src="C:\Users\shari\Documents\GitHub\Lenguaje-C\img" alt="Img1">
-</p>
-
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
