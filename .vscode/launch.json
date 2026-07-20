@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/shari/Documents/GitHub/Lenguaje-C/04-Code",
-      "program": "c:/Users/shari/Documents/GitHub/Lenguaje-C/04-Code/build/Debug/outDebug",
+      "cwd": "c:/Users/shari/Documents/GitHub/Lenguaje-C/04 - C Language",
+      "program": "c:/Users/shari/Documents/GitHub/Lenguaje-C/04 - C Language/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
