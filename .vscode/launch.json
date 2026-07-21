@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/shari/Documents/GitHub/Lenguaje-C/06 - C Language Procedures and Funtions",
-      "program": "c:/Users/shari/Documents/GitHub/Lenguaje-C/06 - C Language Procedures and Funtions/build/Debug/outDebug",
+      "cwd": "c:/Users/shari/Documents/GitHub/Lenguaje-C/07- C Language Procedures Functions and Libraries",
+      "program": "c:/Users/shari/Documents/GitHub/Lenguaje-C/07- C Language Procedures Functions and Libraries/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
